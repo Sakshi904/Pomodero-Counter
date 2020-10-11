@@ -48,7 +48,7 @@ h2 {
   border-radius: 10px;
   background: #f8caea;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
-  transform: translateY(-30px);
+  transform: translateY(-3px);
 }
 @media (max-width: 780px) {
   h2 {
